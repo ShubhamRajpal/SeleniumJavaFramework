@@ -62,7 +62,7 @@ public class Demo1 {
 	
 	myFirstTest.log(Status.INFO, "Starting Test Case...");
 	driver.get("https://www.practo.com/");
-	myFirstTest.log(Status.PASS, "Opene	d URL successfully ");
+	myFirstTest.log(Status.PASS, "Opened URL successfully ");
 	
 	// To get the Title of the page
 	String page = driver.getTitle();
