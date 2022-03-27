@@ -1,0 +1,13 @@
+[INFO ] 2022-03-24 16:06:57.364 [main] Demo_Log4j - This is an Info Msg
+[ERROR] 2022-03-24 16:06:57.368 [main] Demo_Log4j - This is an Error Msg
+[WARN ] 2022-03-24 16:06:57.368 [main] Demo_Log4j - This is an warning Msg
+[FATAL] 2022-03-24 16:06:57.368 [main] Demo_Log4j - This is an Fatal Msg
+[INFO ] 2022-03-24 16:08:19.703 [main] Demo_Log4j - This is an Info Msg
+[ERROR] 2022-03-24 16:08:19.704 [main] Demo_Log4j - This is an Error Msg
+[WARN ] 2022-03-24 16:08:19.705 [main] Demo_Log4j - This is an warning Msg
+[FATAL] 2022-03-24 16:08:19.705 [main] Demo_Log4j - This is an Fatal Msg
+[TRACE] 2022-03-24 16:09:13.339 [main] Demo_Log4j - This is a trace Msg
+[INFO ] 2022-03-24 16:09:13.344 [main] Demo_Log4j - This is an Info Msg
+[ERROR] 2022-03-24 16:09:13.345 [main] Demo_Log4j - This is an Error Msg
+[WARN ] 2022-03-24 16:09:13.345 [main] Demo_Log4j - This is an warning Msg
+[FATAL] 2022-03-24 16:09:13.345 [main] Demo_Log4j - This is an Fatal Msg
